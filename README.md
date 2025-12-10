@@ -18,6 +18,10 @@ Project: Iris Flower Classification Using Flask API
 
 Task-3 of the CODTECH internship required building a complete end-to-end data science project. The main objective of this task was to collect a dataset, preprocess the data, build a machine learning model, and deploy the model using a web framework like Flask or FastAPI. This task helped me understand the complete lifecycle of a data science project—from beginning to end—similar to how projects are done in real companies.
 
+#OUTPUT
+
+<img width="1033" height="238" alt="Image" src="https://github.com/user-attachments/assets/e7c1926d-441f-4cdc-89b5-2768cc9dc2a5" />
+
 1. Introduction
 
 In this project, I developed a machine learning model that can classify iris flowers into three species: Setosa, Versicolor, and Virginica. I used the popular Iris dataset, which contains measurements of sepal length, sepal width, petal length, and petal width. Using these inputs, the model predicts the correct flower type.
